@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['ktx_5ffile_5fdata_5ferror_252',['KTX_FILE_DATA_ERROR',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737a0a3b899c794df326ebcea8dd3a679c14',1,'ktx.h']]],
+  ['ktx_5ffile_5fopen_5ffailed_253',['KTX_FILE_OPEN_FAILED',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737ac8f2bb08408001aad4941fc7b3f45558',1,'ktx.h']]],
+  ['ktx_5ffile_5foverflow_254',['KTX_FILE_OVERFLOW',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737af1c77ba0fee3c65d49a334bec949c8a6',1,'ktx.h']]],
+  ['ktx_5ffile_5fread_5ferror_255',['KTX_FILE_READ_ERROR',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737a1559258b3bd0f47eef28fd4839074452',1,'ktx.h']]],
+  ['ktx_5ffile_5fseek_5ferror_256',['KTX_FILE_SEEK_ERROR',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737ae5983275cc1d3d3480c5cf1275723cf1',1,'ktx.h']]],
+  ['ktx_5ffile_5funexpected_5feof_257',['KTX_FILE_UNEXPECTED_EOF',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737ab6d2090e851d9757ce32c05ec807ba4d',1,'ktx.h']]],
+  ['ktx_5ffile_5fwrite_5ferror_258',['KTX_FILE_WRITE_ERROR',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737a85733279b7d3e00ad9a6d498d6686645',1,'ktx.h']]],
+  ['ktx_5fgl_5ferror_259',['KTX_GL_ERROR',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737a89736f14efecf057c2d5a35342ab84cf',1,'ktx.h']]],
+  ['ktx_5finvalid_5foperation_260',['KTX_INVALID_OPERATION',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737af20c350e21ca603f3ffb2bc46235369a',1,'ktx.h']]],
+  ['ktx_5finvalid_5fvalue_261',['KTX_INVALID_VALUE',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737a7da41bb3195d6cc93a513ac18bc91e4f',1,'ktx.h']]],
+  ['ktx_5fnot_5ffound_262',['KTX_NOT_FOUND',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737ac9008e8d20f60f4fb67d735f287be470',1,'ktx.h']]],
+  ['ktx_5fout_5fof_5fmemory_263',['KTX_OUT_OF_MEMORY',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737a87728a1745ea6333b6fbe041c03036f2',1,'ktx.h']]],
+  ['ktx_5fsuccess_264',['KTX_SUCCESS',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737afdb7a07b23399df43e1ecf161963cf98',1,'ktx.h']]],
+  ['ktx_5ftexture_5fcreate_5falloc_5fstorage_265',['KTX_TEXTURE_CREATE_ALLOC_STORAGE',['../ktx_8h.html#a2ab4b656d36abc318aed17a5f73c505c',1,'ktx.h']]],
+  ['ktx_5ftexture_5fcreate_5fload_5fimage_5fdata_5fbit_266',['KTX_TEXTURE_CREATE_LOAD_IMAGE_DATA_BIT',['../ktx_8h.html#a5d741f48293002f70546881d2394b6f6',1,'ktx.h']]],
+  ['ktx_5ftexture_5fcreate_5fno_5fstorage_267',['KTX_TEXTURE_CREATE_NO_STORAGE',['../ktx_8h.html#adbea2c86013d12a4825500156e0c1f60',1,'ktx.h']]],
+  ['ktx_5ftexture_5fcreate_5fraw_5fkvdata_5fbit_268',['KTX_TEXTURE_CREATE_RAW_KVDATA_BIT',['../ktx_8h.html#aa5a065e72ab3fffea96a320f0af415c1',1,'ktx.h']]],
+  ['ktx_5ftexture_5fcreate_5fskip_5fkvdata_5fbit_269',['KTX_TEXTURE_CREATE_SKIP_KVDATA_BIT',['../ktx_8h.html#a932bc39751e896edb5c48415447edc50',1,'ktx.h']]],
+  ['ktx_5funknown_5ffile_5fformat_270',['KTX_UNKNOWN_FILE_FORMAT',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737adbeb98d59020ac018a4f697d068fff21',1,'ktx.h']]],
+  ['ktx_5funsupported_5ftexture_5ftype_271',['KTX_UNSUPPORTED_TEXTURE_TYPE',['../ktx_8h.html#a17a5b951a71f96a49d882bc7e7c2c737ad3d82ba3467063bec92486a94a38d21d',1,'ktx.h']]]
+];
